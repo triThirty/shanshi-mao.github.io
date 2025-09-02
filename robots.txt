@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shanshi-mao.github.io/sitemap.xml
+Sitemap: https://triThirty.github.io/sitemap.xml
