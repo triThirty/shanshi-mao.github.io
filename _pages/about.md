@@ -2,16 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: THE PHILOSOPHERS HAVE ONLY INTERPRETED THE WORLD, IN VARIOUS WAYS; THE POINT IS TO CHANGE IT. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: icon.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
