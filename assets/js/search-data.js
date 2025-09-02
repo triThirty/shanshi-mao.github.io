@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-tutoring",
+          title: "Tutoring",
+          description: "Artificial Intelligence Project. A capstone project to construct a solution to an AI task. The project may be an individual or a group project. @ Victoria University of Wellington",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
